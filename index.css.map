@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "index.scss",
+        "scss/_functions.scss",
+        "scss/_mixins.scss",
+        "scss/_variables.scss",
+        "scss/_base.scss",
+        "scss/_columns.scss",
+        "scss/_components.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
